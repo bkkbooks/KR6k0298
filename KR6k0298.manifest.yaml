@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6k0298/v1
+canonical_location: https://kanripo.org/bkk/KR6k0298/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律比丘戒相表記校註
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2283.xml
+    old_id: G104n2283
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0298_000.yaml, hash: 'sha256:5c2a450d5e8947537928fdc38442c9cdc96e3a2db9bd063e1a3dcd11e8ca001c'}
+  - {seq: 1, filename: KR6k0298_001.yaml, hash: 'sha256:da513b315d796c57d2bacb8b24bed18451d6047a9e5bdedafdf14e09219762b6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0298_001.markers.yaml, hash: 'sha256:02fa920c308410f0c5342a02cc536f9baebece419f8f9e710ce8980700acbbfb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0298_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 4980
+  label: 四分律比丘戒相表記校註
+  type: juan
+  level: 1
+hash: sha256:11c38c5505a4bccd88febdd0ac3ce225b0390c01d4534ef4582ec8754e43754c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: G

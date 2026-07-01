@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0298/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律比丘戒相表記校註
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2283.xml
+    old_id: G104n2283
+hash: sha256:5c2a450d5e8947537928fdc38442c9cdc96e3a2db9bd063e1a3dcd11e8ca001c

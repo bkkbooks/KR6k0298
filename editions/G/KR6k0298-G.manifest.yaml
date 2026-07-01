@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0298/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0298/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律比丘戒相表記校註
+  identifiers:
+    krp: KR6k0298
+    cbeta: G104n2283
+    cbeta_old_id: G104n2283
+    authorityid: CA0008648
+    json_key: G2283
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2283.xml
+    old_id: G104n2283
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0298_000-G.yaml, hash: 'sha256:5c2a450d5e8947537928fdc38442c9cdc96e3a2db9bd063e1a3dcd11e8ca001c'}
+  - {seq: 1, filename: KR6k0298_001-G.yaml, hash: 'sha256:7c0d1d7f674d6aee598b9096a535a190dc79288c3f6c7cc46d4c820d7a7fc2ac'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0298_000-G.markers.yaml, hash: 'sha256:03e653d91bba540b6837d17f783bb3f88a383e6431d96a37941a2b3af7abd13d'}
+  - {seq: 1, role: markers, filename: assets/KR6k0298_001-G.markers.yaml, hash: 'sha256:5939208a9dde7e65b7b4f40e66192e85212ee8de3f5bb09c6e63d517bf30c31e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0298_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 4980
+  label: 四分律比丘戒相表記校註
+  type: juan
+  level: 1
+hash: sha256:3902f0daa8ace7253fb789b3bd2d528abdc56a2490f2af8da8ce8a9f12594b93
