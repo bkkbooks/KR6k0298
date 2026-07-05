@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0298_000.yaml, hash: 'sha256:5c2a450d5e8947537928fdc38442c9cdc96e3a2db9bd063e1a3dcd11e8ca001c'}
-  - {seq: 1, filename: KR6k0298_001.yaml, hash: 'sha256:da513b315d796c57d2bacb8b24bed18451d6047a9e5bdedafdf14e09219762b6'}
+  - {seq: 1, filename: KR6k0298_001.yaml, hash: 'sha256:7c0d1d7f674d6aee598b9096a535a190dc79288c3f6c7cc46d4c820d7a7fc2ac'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0298_001.markers.yaml, hash: 'sha256:02fa920c308410f0c5342a02cc536f9baebece419f8f9e710ce8980700acbbfb'}
+  - {seq: 0, role: markers, filename: assets/KR6k0298_000.markers.yaml, hash: 'sha256:df9c1ff2166e934bccdc2d6fe3569872787eded896a47e997ccf412f86b7f413'}
+  - {seq: 1, role: markers, filename: assets/KR6k0298_001.markers.yaml, hash: 'sha256:ca0792ef3fa1aa366eb7a6d038b7aeea3058215d43a17ac71d56f35fb858f7b2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -28,9 +29,6 @@ table_of_contents:
   label: 四分律比丘戒相表記校註
   type: juan
   level: 1
-hash: sha256:11c38c5505a4bccd88febdd0ac3ce225b0390c01d4534ef4582ec8754e43754c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e53cbce93f16def7ff72340e7e32b312112375078150038fd5df624449151bb0
 editions:
 - short: G
