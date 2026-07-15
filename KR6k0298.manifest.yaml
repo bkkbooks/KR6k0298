@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0298/v1
 canonical_location: https://kanripo.org/bkk/KR6k0298/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 四分律比丘戒相表記校註
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0298_000.yaml, hash: 'sha256:5c2a450d5e8947537928fdc38442c9cdc96e3a2db9bd063e1a3dcd11e8ca001c'}
-  - {seq: 1, filename: KR6k0298_001.yaml, hash: 'sha256:7c0d1d7f674d6aee598b9096a535a190dc79288c3f6c7cc46d4c820d7a7fc2ac'}
+  - {seq: 1, filename: KR6k0298_001.yaml, hash: 'sha256:9a2c1fb0c3e57584003a1c4e659c0d2b5faee9e3b9095a38b3526fc541f91d87'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0298_000.markers.yaml, hash: 'sha256:df9c1ff2166e934bccdc2d6fe3569872787eded896a47e997ccf412f86b7f413'}
-  - {seq: 1, role: markers, filename: assets/KR6k0298_001.markers.yaml, hash: 'sha256:ca0792ef3fa1aa366eb7a6d038b7aeea3058215d43a17ac71d56f35fb858f7b2'}
+  - {seq: 1, role: markers, filename: assets/KR6k0298_001.markers.yaml, hash: 'sha256:5c63a16cf4ebb0a9a053b51f462f8b1fa764d7f9a3f9b739bffecfb41d04f474'}
 table_of_contents:
 - ref:
     seq: 1
@@ -29,6 +29,9 @@ table_of_contents:
   label: 四分律比丘戒相表記校註
   type: juan
   level: 1
-hash: sha256:e53cbce93f16def7ff72340e7e32b312112375078150038fd5df624449151bb0
+hash: sha256:00c46be661435bb8701e3e4ae4c7d23d1c81d80c5c56acbd840b1f4a1ee1bba8
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
